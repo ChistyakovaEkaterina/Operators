@@ -1,4 +1,4 @@
-//Operators
+п»ї//Operators
 #include <iostream>
 using namespace std;
 //#define ARINHMETICAL_OPERATORS
@@ -13,7 +13,7 @@ void main()
 #if defined ARINHMETICAL_OPERATORS
 	* Unaty: +,-;
 	* Binary: +,-,*,/,%:;
-	%- остаток от деления;
+	%- РѕСЃС‚Р°С‚РѕРє РѕС‚ РґРµР»РµРЅРёСЏ;
 
 	#endif
 #if defined ASSIGNMENT_OPERATORS
